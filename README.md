@@ -1,5 +1,5 @@
 # tardygram
-A printer enabled Twitter bot
+A dot matrix printing Twitter bot
 
 TardyGram is a Twitter bot project I worked on throughout the summer after my sophomore year of high school. There are 3 components to TardyGram:
 	
