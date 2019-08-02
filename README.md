@@ -19,9 +19,9 @@ Tardygram is a Twitter bot project I worked on throughout the summer after my so
 	
 ## More info
 
-At it's peak, Tardygram was receiving tens of mentions everyday and was even mentioned by Hackaday. Unfortunately, Tardygram is no longer running but you can still view it's tweet history on Twitter. Warning: a few Tweets may be NSFW. After all, we can't control what random users send us on the internet. 
+At it's peak, Tardygram was receiving tens of mentions everyday and was even mentioned by Hackaday. Unfortunately, Tardygram is no longer running but you can still view it's tweet history on Twitter.
 
-Fun fact: Tardygram is the opposite of Instagram. Instagram is instant whereas Tardygram takes a few minutes to print the photo and reply. 
+Fun fact: Tardygram is the opposite of Instagram. Instagram is instant whereas Tardygram takes a few minutes to print the photo and reply. Pun intended.
 
 https://twitter.com/tardygram?lang=en
 
